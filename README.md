@@ -6,6 +6,6 @@ Arquivo"2go.mwb" abrir no workbench, relacionado a questão 2.
 
 Arquivo "consultas.sql" relacionado a questão 3.
 
-Pasta "texto-" relacionada aos scripts da questão 1. 
+Pasta "texto-angular" relacionada aos scripts da questão 7. 
 
-
+Os demais arquivos apresentam os prints dos modelos prontos.
